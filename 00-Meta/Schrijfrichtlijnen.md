@@ -13,12 +13,12 @@ gerelateerd: ["[[Hoe-werkt-dit-brain]]", "[[Taxonomie-en-Tags]]", "[[Tone-of-Voi
 # Schrijfrichtlijnen
 
 Deze richtlijnen zorgen dat het brain consistent, leesbaar en bruikbaar blijft voor de
-AI-chatbot. Een document dat hieraan voldoet, geeft betere antwoorden.
+AI. Een document dat hieraan voldoet, geeft betere antwoorden.
 
 ## 1. Eén onderwerp per bestand (atomair)
 
 Splits brede onderwerpen op. Liever 3 korte documenten dan 1 lang document.
-Dit verbetert hoe de chatbot relevante stukken (chunks) terugvindt.
+Dit verbetert hoe de AI relevante stukken (chunks) terugvindt.
 
 ## 2. Altijd volledige frontmatter
 
@@ -41,7 +41,7 @@ Engelse sleutel), `gerelateerd` (wikilinks).
 
 - **Begin met het antwoord.** Zet de kern bovenaan, details eronder.
 - **Eén H1 (`#`) per document** = de titel.
-- **Gebruik beschrijvende koppen** (`##`). De chatbot gebruikt koppen als context.
+- **Gebruik beschrijvende koppen** (`##`). De AI gebruikt koppen als context.
 - **Korte alinea's en lijstjes.** Vermijd lange lappen tekst.
 - **Wees expliciet.** Schrijf "binnen 14 dagen", niet "op tijd". Vermijd "zie boven".
 

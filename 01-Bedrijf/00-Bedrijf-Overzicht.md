@@ -13,7 +13,7 @@ gerelateerd: []
 # 01 · Bedrijf — Overzicht
 
 Het fundament: wie is BWJ Ecommerce, waar staan we voor en hoe communiceren we.
-Deze laag bepaalt de **toon en context** van álle chatbot-antwoorden.
+Deze laag bepaalt de **toon en context** van álle antwoorden uit het brain.
 
 ## Documenten in dit domein
 
@@ -30,7 +30,7 @@ Deze laag bepaalt de **toon en context** van álle chatbot-antwoorden.
 - [ ] Welke merken / webshops vallen onder BWJ?
 - [ ] Doelgroep(en) en markten (NL / BE / EU?)
 - [ ] Missie, visie, kernwaarden
-- [ ] Tone of voice (hoe praat de chatbot namens BWJ?)
+- [ ] Tone of voice (hoe communiceert BWJ naar buiten?)
 - [ ] Organisatiestructuur, afdelingen en rollen
 - [ ] Contactgegevens en openingstijden
 - [ ] Begrippenlijst (bedrijfsspecifiek jargon)

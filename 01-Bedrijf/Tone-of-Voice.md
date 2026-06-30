@@ -12,7 +12,8 @@ gerelateerd: ["[[Schrijfrichtlijnen]]", "[[Over-BWJ-Ecommerce]]"]
 
 # Tone of Voice
 
-Zo communiceert BWJ Ecommerce — en zo moet de AI-chatbot dus ook klinken.
+Zo communiceert BWJ Ecommerce naar buiten — handig als referentie voor teksten en
+communicatie.
 
 > ⚠️ TE VERIFIËREN: dit is een startvoorstel. Pas aan naar de echte BWJ-stijl.
 

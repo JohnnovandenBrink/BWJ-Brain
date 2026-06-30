@@ -17,7 +17,7 @@ Overzicht van wie welke fysieke toegang heeft (sleutel/pas). Bijwerken bij **elk
 offboarding**.
 
 > 🔒 **Beveiliging — belangrijk.** Bewaar **géén alarmcodes, wachtwoorden of pincodes** in
-> dit document. Dit brain kan een AI-chatbot voeden; secrets horen daar nooit in. Noteer
+> dit document. Dit brain kan een AI voeden; secrets horen daar nooit in. Noteer
 > alleen *of* iemand een alarmcode kent (ja/nee), niet de code zelf. Bewaar de echte codes
 > in een beveiligde wachtwoordkluis.
 >

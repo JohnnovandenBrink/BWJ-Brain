@@ -16,13 +16,13 @@ Dit document legt uit hoe het BWJ AI Brain is opgebouwd en hoe je het gebruikt.
 
 ## Wat is het doel?
 
-Dit brain is de **single source of truth** van BWJ Ecommerce. Het voedt:
+Dit brain is de **single source of truth** van BWJ Ecommerce. Het dient twee doelen:
 
-1. **De AI-chatbot** — die antwoorden geeft aan klanten en/of medewerkers op basis van
-   deze bestanden.
+1. **De AI waarmee je praat** — beantwoordt jouw vragen over BWJ op basis van deze
+   bestanden (correcte, actuele bedrijfsinformatie).
 2. **Het team** — als kennisbank, doorzoekbaar in Obsidian of GitHub.
 
-> 💡 Vuistregel: *als de chatbot het moet kunnen weten, moet het hier staan.*
+> 💡 Vuistregel: *als je het aan het AI brain moet kunnen vragen, moet het hier staan.*
 
 ## Hoe is het opgebouwd?
 
@@ -30,7 +30,7 @@ De kennis is verdeeld in **domeinen** (genummerde mappen). Binnen elk domein sta
 **atomaire documenten**: één onderwerp per bestand. Zo vindt zowel de mens als de AI
 snel het juiste antwoord.
 
-Elk document heeft bovenaan **frontmatter** (metadata tussen `---`). De chatbot gebruikt
+Elk document heeft bovenaan **frontmatter** (metadata tussen `---`). De AI gebruikt
 deze velden om te filteren (bijv. "geef alleen `actueel` beleid") en om bronnen te tonen.
 
 ## Documenttypes
@@ -49,9 +49,9 @@ deze velden om te filteren (bijv. "geef alleen `actueel` beleid") en om bronnen 
 concept  →  in-review  →  actueel  →  verouderd  →  (naar 99-Archief)
 ```
 
-- **concept**: nog in opbouw, niet betrouwbaar voor de chatbot.
+- **concept**: nog in opbouw, niet betrouwbaar voor de AI.
 - **in-review**: klaar, wacht op controle door eigenaar.
-- **actueel**: goedgekeurd en betrouwbaar. *Alleen dit gebruikt de chatbot idealiter.*
+- **actueel**: goedgekeurd en betrouwbaar. *Alleen hierop kun je volledig vertrouwen.*
 - **verouderd**: niet meer geldig; verplaats naar [99-Archief/](../99-Archief/).
 
 ## Koppeling met Obsidian

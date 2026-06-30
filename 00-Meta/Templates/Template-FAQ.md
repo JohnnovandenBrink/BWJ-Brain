@@ -12,7 +12,7 @@ gerelateerd: []
 
 # FAQ: <Onderwerp>
 
-> Veelgestelde vragen over <onderwerp>. Eén vraag = één kop, zodat de chatbot per vraag
+> Veelgestelde vragen over <onderwerp>. Eén vraag = één kop, zodat de AI per vraag
 > een precies antwoord kan teruggeven.
 
 ## Hoe <vraag 1>?

@@ -21,5 +21,5 @@ Word-documenten, Excel-lijsten, PDF's, screenshots, exports, enz.
    ze in het juiste domein (01-Bedrijf, 02-Klantenservice, ...).
 4. Het ruwe bestand mag daarna gearchiveerd of verwijderd worden.
 
-> ⚠️ Bestanden hier zijn nog **niet** verwerkt en worden (nog) niet door de chatbot
+> ⚠️ Bestanden hier zijn nog **niet** verwerkt en worden (nog) niet door de AI
 > gebruikt. Pas na verwerking en status `actueel` tellen ze mee.

@@ -12,7 +12,7 @@ gerelateerd: ["[[Schrijfrichtlijnen]]"]
 
 # Taxonomie en Tags
 
-Een vaste taxonomie houdt het brain doorzoekbaar — voor mensen én de chatbot.
+Een vaste taxonomie houdt het brain doorzoekbaar — voor mensen én de AI.
 
 ## Domeinen (`domein:` in frontmatter)
 
