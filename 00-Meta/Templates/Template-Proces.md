@@ -6,7 +6,7 @@ status: concept
 eigenaar: 
 laatst_bijgewerkt: 2026-06-30
 tags: []
-aliassen: []
+aliases: []
 gerelateerd: []
 ---
 
@@ -32,4 +32,4 @@ gerelateerd: []
 
 ## Zie ook
 
-- [[Gerelateerd-beleid]]
+- `[[Gerelateerd-beleid]]`

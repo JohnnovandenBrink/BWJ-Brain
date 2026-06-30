@@ -6,7 +6,7 @@ status: concept
 eigenaar: Johnno van den Brink
 laatst_bijgewerkt: 2026-06-30
 tags: [it, tools, moc, overzicht]
-aliassen: [systemen, software, integraties]
+aliases: [IT-en-Tools-Overzicht, systemen, software, integraties]
 gerelateerd: ["[[Ecommerce-Overzicht]]"]
 ---
 

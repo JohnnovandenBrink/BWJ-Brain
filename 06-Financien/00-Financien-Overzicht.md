@@ -6,7 +6,7 @@ status: concept
 eigenaar: Johnno van den Brink
 laatst_bijgewerkt: 2026-06-30
 tags: [financien, moc, overzicht]
-aliassen: [finance, boekhouding]
+aliases: [Financien-Overzicht, finance, boekhouding]
 gerelateerd: ["[[Klantenservice-Overzicht]]"]
 ---
 

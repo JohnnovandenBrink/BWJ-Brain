@@ -7,7 +7,7 @@ eigenaar: Office Manager
 laatst_bijgewerkt: 2026-06-30
 bron: Handleiding_Office_Manager.docx
 tags: [office, storingen, onderhoud, leveranciers]
-aliassen: [storingen, onderhoud, reparaties, pand]
+aliases: [storingen, onderhoud, reparaties, pand]
 gerelateerd: ["[[Leveranciers-Facilitair]]", "[[Werkprincipes-en-Mandaat]]", "[[Proces-Arbo-en-Veiligheid]]"]
 ---
 

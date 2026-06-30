@@ -7,7 +7,7 @@ eigenaar: Office Manager
 laatst_bijgewerkt: 2026-06-30
 bron: Handleiding_Office_Manager.docx
 tags: [office, voorraad, inkoop, keuken]
-aliassen: [voorraadbeheer, kantoorvoorraad, boodschappen]
+aliases: [voorraadbeheer, kantoorvoorraad, boodschappen]
 gerelateerd: ["[[Voorraadlijst-Kantoor]]", "[[Leveranciers-Facilitair]]", "[[Werkprincipes-en-Mandaat]]"]
 ---
 

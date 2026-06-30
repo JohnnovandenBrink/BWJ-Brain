@@ -7,7 +7,7 @@ eigenaar: Office Manager
 laatst_bijgewerkt: 2026-06-30
 bron: Handleiding_Office_Manager.docx
 tags: [office, mandaat, principes, budget]
-aliassen: [mandaat, budget, principes, werkprincipes]
+aliases: [mandaat, budget, principes, werkprincipes]
 gerelateerd: ["[[00-Office-Management-Overzicht]]"]
 ---
 

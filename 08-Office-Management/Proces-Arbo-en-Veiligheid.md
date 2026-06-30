@@ -7,7 +7,7 @@ eigenaar: Office Manager
 laatst_bijgewerkt: 2026-06-30
 bron: Handleiding_Office_Manager.docx
 tags: [office, arbo, veiligheid, bhv, rie]
-aliassen: [arbo, veiligheid, bhv, rie, brandveiligheid, ehbo]
+aliases: [arbo, veiligheid, bhv, rie, brandveiligheid, ehbo]
 gerelateerd: ["[[Leveranciers-Facilitair]]", "[[Werkprincipes-en-Mandaat]]"]
 ---
 

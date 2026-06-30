@@ -6,7 +6,7 @@ status: concept
 eigenaar: 
 laatst_bijgewerkt: 2026-06-30
 tags: []
-aliassen: []
+aliases: []
 gerelateerd: []
 ---
 
@@ -25,4 +25,4 @@ Antwoord.
 
 ## Kan ik <vraag 3>?
 
-Antwoord. Verwijs eventueel naar het bijbehorende [[beleid]] of [[proces]].
+Antwoord. Verwijs eventueel naar het bijbehorende `[[beleid]]` of `[[proces]]`.

@@ -7,7 +7,7 @@ eigenaar: Johnno van den Brink
 laatst_bijgewerkt: 2026-06-30
 ingangsdatum: 
 tags: [klantenservice/retour, beleid, garantie]
-aliassen: [retour, retourneren, terugsturen, herroepingsrecht]
+aliases: [retour, retourneren, terugsturen, herroepingsrecht]
 gerelateerd: ["[[Proces-Retour-verwerken]]", "[[FAQ-Retourneren]]"]
 ---
 

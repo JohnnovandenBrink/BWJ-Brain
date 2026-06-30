@@ -7,7 +7,7 @@ eigenaar: Office Manager
 laatst_bijgewerkt: 2026-06-30
 bron: Handleiding_Office_Manager.docx
 tags: [office, events, borrel, uitje]
-aliassen: [events, borrel, personeelsuitje, jaarlijks uitje]
+aliases: [events, borrel, personeelsuitje, jaarlijks uitje]
 gerelateerd: ["[[Werkprincipes-en-Mandaat]]", "[[Leveranciers-Facilitair]]"]
 ---
 

@@ -7,7 +7,7 @@ eigenaar: Office Manager
 laatst_bijgewerkt: 2026-06-30
 bron: Handleiding_Office_Manager.docx
 tags: [office, facilitair, moc, overzicht]
-aliassen: [office manager, facilitair, kantoorbeheer]
+aliases: [Office-Management-Overzicht, office manager, facilitair, kantoorbeheer]
 gerelateerd: ["[[Werkprincipes-en-Mandaat]]", "[[Inkoop-Overzicht]]", "[[Operations-Overzicht]]"]
 ---
 

@@ -7,7 +7,7 @@ eigenaar: Office Manager
 laatst_bijgewerkt: 2026-06-30
 bron: Voorraadlijst.xlsx
 tags: [office, voorraad, inkoop]
-aliassen: [voorraadlijst, boodschappenlijst, minimumniveaus]
+aliases: [voorraadlijst, boodschappenlijst, minimumniveaus]
 gerelateerd: ["[[Proces-Voorraadbeheer-Keuken-en-Kantoor]]", "[[Leveranciers-Facilitair]]"]
 ---
 

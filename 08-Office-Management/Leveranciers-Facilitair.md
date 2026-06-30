@@ -7,7 +7,7 @@ eigenaar: Office Manager
 laatst_bijgewerkt: 2026-06-30
 bron: Handleiding_Office_Manager.docx
 tags: [office, leveranciers, contacten]
-aliassen: [leveranciers, vaste partijen, contacten pand]
+aliases: [leveranciers, vaste partijen, contacten pand]
 gerelateerd: ["[[Proces-Leveranciers-en-Storingen-Pand]]", "[[Contractenregister]]"]
 ---
 

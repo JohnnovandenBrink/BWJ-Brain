@@ -7,7 +7,7 @@ eigenaar: Office Manager
 laatst_bijgewerkt: 2026-06-30
 bron: Handleiding_Office_Manager.docx
 tags: [office, contracten, facilitair]
-aliassen: [contracten, contractbeheer, facilitaire contracten]
+aliases: [contracten, contractbeheer, facilitaire contracten]
 gerelateerd: ["[[Contractenregister]]", "[[Werkprincipes-en-Mandaat]]"]
 ---
 

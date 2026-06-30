@@ -7,7 +7,7 @@ eigenaar: Office Manager
 laatst_bijgewerkt: 2026-06-30
 bron: Handleiding_Office_Manager.docx
 tags: [office, continuiteit, overdracht, back-up]
-aliassen: [continuiteit, afwezigheid, overdracht, vervanging]
+aliases: [continuiteit, afwezigheid, overdracht, vervanging]
 gerelateerd: ["[[Werkprincipes-en-Mandaat]]", "[[Toegangsregister]]"]
 ---
 

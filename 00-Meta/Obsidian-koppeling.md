@@ -6,7 +6,7 @@ status: concept
 eigenaar: Johnno van den Brink
 laatst_bijgewerkt: 2026-06-30
 tags: [meta, obsidian, git]
-aliassen: [obsidian, vault, sync]
+aliases: [obsidian, vault, sync]
 gerelateerd: ["[[Hoe-werkt-dit-brain]]"]
 ---
 

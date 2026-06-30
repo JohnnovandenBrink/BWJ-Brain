@@ -6,7 +6,7 @@ status: concept
 eigenaar: 
 laatst_bijgewerkt: 2026-06-30
 tags: []
-aliassen: []
+aliases: []
 gerelateerd: []
 ---
 
@@ -29,4 +29,4 @@ Antwoord.
 
 ## Zie ook
 
-- [[Gerelateerd-document]]
+- `[[Gerelateerd-document]]`

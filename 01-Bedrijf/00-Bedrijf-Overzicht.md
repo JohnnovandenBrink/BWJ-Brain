@@ -6,7 +6,7 @@ status: concept
 eigenaar: Johnno van den Brink
 laatst_bijgewerkt: 2026-06-30
 tags: [bedrijf, moc, overzicht]
-aliassen: [over bwj, company]
+aliases: [Bedrijf-Overzicht, over bwj, company]
 gerelateerd: []
 ---
 

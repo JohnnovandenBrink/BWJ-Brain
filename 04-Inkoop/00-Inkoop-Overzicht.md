@@ -6,7 +6,7 @@ status: concept
 eigenaar: Johnno van den Brink
 laatst_bijgewerkt: 2026-06-30
 tags: [inkoop, moc, overzicht]
-aliassen: [procurement, leveranciers]
+aliases: [Inkoop-Overzicht, procurement, leveranciers]
 gerelateerd: ["[[Ecommerce-Overzicht]]", "[[Operations-Overzicht]]"]
 ---
 

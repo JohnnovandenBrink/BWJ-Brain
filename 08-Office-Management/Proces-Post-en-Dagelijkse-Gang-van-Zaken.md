@@ -7,7 +7,7 @@ eigenaar: Office Manager
 laatst_bijgewerkt: 2026-06-30
 bron: Handleiding_Office_Manager.docx
 tags: [office, post, receptie, dagelijks]
-aliassen: [post, pakketten, receptie, telefoon, bezoek]
+aliases: [post, pakketten, receptie, telefoon, bezoek]
 gerelateerd: ["[[Werkprincipes-en-Mandaat]]"]
 ---
 

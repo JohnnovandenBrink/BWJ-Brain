@@ -6,7 +6,7 @@ status: actueel
 eigenaar: Johnno van den Brink
 laatst_bijgewerkt: 2026-06-30
 tags: [meta, handleiding, onboarding]
-aliassen: [start, handleiding, uitleg]
+aliases: [start, handleiding, uitleg]
 gerelateerd: ["[[Schrijfrichtlijnen]]", "[[Taxonomie-en-Tags]]"]
 ---
 

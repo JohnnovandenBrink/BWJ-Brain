@@ -7,7 +7,7 @@ eigenaar: Office Manager
 laatst_bijgewerkt: 2026-06-30
 bron: Contractenregister.xlsx
 tags: [office, contracten, facilitair]
-aliassen: [contractenregister, contracten overzicht]
+aliases: [contractenregister, contracten overzicht]
 gerelateerd: ["[[Proces-Facilitaire-Contracten]]", "[[Leveranciers-Facilitair]]"]
 ---
 

@@ -6,7 +6,7 @@ status: actueel
 eigenaar: Johnno van den Brink
 laatst_bijgewerkt: 2026-06-30
 tags: [meta, richtlijnen, kwaliteit]
-aliassen: [conventies, stijlgids]
+aliases: [conventies, stijlgids]
 gerelateerd: ["[[Hoe-werkt-dit-brain]]", "[[Taxonomie-en-Tags]]", "[[Tone-of-Voice]]"]
 ---
 
@@ -34,7 +34,8 @@ Elk bestand begint met frontmatter tussen `---`. Verplichte velden:
 | `laatst_bijgewerkt` | Datum `JJJJ-MM-DD` | `2026-06-30` |
 | `tags` | Lijst trefwoorden | `[retour, garantie]` |
 
-Optioneel: `aliassen` (synoniemen waarop gezocht wordt), `gerelateerd` (wikilinks).
+Optioneel: `aliases` (synoniemen waarop gezocht/gelinkt wordt — Obsidian herkent deze
+Engelse sleutel), `gerelateerd` (wikilinks).
 
 ## 3. Schrijf voor mens én machine
 

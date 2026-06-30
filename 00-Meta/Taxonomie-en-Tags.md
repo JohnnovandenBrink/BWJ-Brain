@@ -6,7 +6,7 @@ status: actueel
 eigenaar: Johnno van den Brink
 laatst_bijgewerkt: 2026-06-30
 tags: [meta, taxonomie, tags]
-aliassen: [tags, domeinen, categorieën]
+aliases: [tags, domeinen, categorieën]
 gerelateerd: ["[[Schrijfrichtlijnen]]"]
 ---
 

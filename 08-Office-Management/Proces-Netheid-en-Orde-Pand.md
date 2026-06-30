@@ -7,7 +7,7 @@ eigenaar: Office Manager
 laatst_bijgewerkt: 2026-06-30
 bron: Handleiding_Office_Manager.docx
 tags: [office, netheid, schoonmaak, orde]
-aliassen: [netheid, opruimen, schoonmaak, orde]
+aliases: [netheid, opruimen, schoonmaak, orde]
 gerelateerd: ["[[Leveranciers-Facilitair]]", "[[Werkprincipes-en-Mandaat]]"]
 ---
 

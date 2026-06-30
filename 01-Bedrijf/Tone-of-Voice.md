@@ -6,7 +6,7 @@ status: concept
 eigenaar: Johnno van den Brink
 laatst_bijgewerkt: 2026-06-30
 tags: [bedrijf, tone-of-voice, communicatie]
-aliassen: [toon, schrijfstijl, stem]
+aliases: [toon, schrijfstijl, stem]
 gerelateerd: ["[[Schrijfrichtlijnen]]", "[[Over-BWJ-Ecommerce]]"]
 ---
 

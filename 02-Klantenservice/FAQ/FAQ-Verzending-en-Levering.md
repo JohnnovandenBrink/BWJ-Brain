@@ -6,7 +6,7 @@ status: concept
 eigenaar: Johnno van den Brink
 laatst_bijgewerkt: 2026-06-30
 tags: [klantenservice/verzending, faq, levering]
-aliassen: [verzending, levering, bezorging, track and trace]
+aliases: [verzending, levering, bezorging, track and trace]
 gerelateerd: ["[[Verzendbeleid]]", "[[Proces-Niet-ontvangen-pakket]]"]
 ---
 

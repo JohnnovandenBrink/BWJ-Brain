@@ -7,7 +7,7 @@ eigenaar:
 laatst_bijgewerkt: 2026-06-30
 ingangsdatum: 
 tags: []
-aliassen: []
+aliases: []
 gerelateerd: []
 ---
 
@@ -34,4 +34,4 @@ De belangrijkste regel(s) in 1-3 zinnen, zodat de chatbot direct kan antwoorden.
 
 ## Zie ook
 
-- [[Bijbehorend-proces]]
+- `[[Bijbehorend-proces]]`

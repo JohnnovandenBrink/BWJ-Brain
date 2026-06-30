@@ -7,7 +7,7 @@ eigenaar: Office Manager
 laatst_bijgewerkt: 2026-06-30
 bron: Handleiding_Office_Manager.docx
 tags: [office, events, lunch, catering]
-aliassen: [maandlunch, lunch]
+aliases: [maandlunch, lunch]
 gerelateerd: ["[[Werkprincipes-en-Mandaat]]", "[[Proces-Voorraadbeheer-Keuken-en-Kantoor]]"]
 ---
 

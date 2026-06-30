@@ -7,7 +7,7 @@ eigenaar: Office Manager
 laatst_bijgewerkt: 2026-06-30
 bron: Handleiding_Office_Manager.docx
 tags: [office, wagenpark, bus, apk]
-aliassen: [wagenpark, bedrijfsbus, auto, apk]
+aliases: [wagenpark, bedrijfsbus, auto, apk]
 gerelateerd: ["[[Leveranciers-Facilitair]]", "[[Werkprincipes-en-Mandaat]]"]
 ---
 

@@ -6,7 +6,7 @@ status: concept
 eigenaar: Johnno van den Brink
 laatst_bijgewerkt: 2026-06-30
 tags: [ecommerce, moc, overzicht]
-aliassen: [webshop, online verkoop]
+aliases: [Ecommerce-Overzicht, webshop, online verkoop]
 gerelateerd: ["[[Klantenservice-Overzicht]]", "[[Inkoop-Overzicht]]"]
 ---
 

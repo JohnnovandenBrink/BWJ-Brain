@@ -6,7 +6,7 @@ status: concept
 eigenaar: Johnno van den Brink
 laatst_bijgewerkt: 2026-06-30
 tags: [klantenservice, moc, overzicht]
-aliassen: [support, klantcontact]
+aliases: [Klantenservice-Overzicht, support, klantcontact]
 gerelateerd: ["[[Ecommerce-Overzicht]]", "[[Operations-Overzicht]]"]
 ---
 

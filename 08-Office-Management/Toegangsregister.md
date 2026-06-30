@@ -7,7 +7,7 @@ eigenaar: Office Manager
 laatst_bijgewerkt: 2026-06-30
 bron: Toegangsregister.xlsx
 tags: [office, toegang, beveiliging, onboarding]
-aliassen: [toegangsregister, sleutels, passen]
+aliases: [toegangsregister, sleutels, passen]
 gerelateerd: ["[[Proces-Onboarding-en-Offboarding]]"]
 ---
 

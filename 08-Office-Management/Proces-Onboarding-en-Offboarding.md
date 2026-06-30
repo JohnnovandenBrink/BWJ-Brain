@@ -7,7 +7,7 @@ eigenaar: Office Manager
 laatst_bijgewerkt: 2026-06-30
 bron: Handleiding_Office_Manager.docx
 tags: [office, onboarding, offboarding, hr]
-aliassen: [onboarding, offboarding, indiensttreding, uitdiensttreding]
+aliases: [onboarding, offboarding, indiensttreding, uitdiensttreding]
 gerelateerd: ["[[Toegangsregister]]", "[[Werkprincipes-en-Mandaat]]"]
 ---
 

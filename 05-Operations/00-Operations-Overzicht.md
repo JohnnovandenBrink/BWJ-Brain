@@ -6,7 +6,7 @@ status: concept
 eigenaar: Johnno van den Brink
 laatst_bijgewerkt: 2026-06-30
 tags: [operations, moc, overzicht]
-aliassen: [logistiek, magazijn, fulfillment]
+aliases: [Operations-Overzicht, logistiek, magazijn, fulfillment]
 gerelateerd: ["[[Ecommerce-Overzicht]]", "[[Inkoop-Overzicht]]"]
 ---
 
