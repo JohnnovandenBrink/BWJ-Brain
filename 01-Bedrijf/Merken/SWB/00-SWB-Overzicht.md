@@ -19,8 +19,7 @@ van SWB, gebaseerd op het officiële Brand Book (februari 2025).
 
 - **Merknaam:** SWB (Smartwatchbanden.nl)
 - **Webshop:** https://www.smartwatchbanden.nl
-- **Assortiment:** smartwatchbandjes (o.a. de "Blue Dragon"-lijn als voorbeeld in het
-  brand book).
+- **Assortiment:** smartwatchbandjes.
 
 ## Brand book (volledige visuele referentie)
 
@@ -41,7 +40,7 @@ SWB heeft een vaste **pay-off** en "spirit" die in de communicatie terugkomen.
 > ⚠️ TE VERIFIËREN: exacte tekst van de pay-off. In het brand book staat mogelijk
 > "All Day" als pay-off; de pay-off-bestanden heten `swb_payoff_*`. Vul de juiste tekst in.
 
-## Voorbeeldcampagne
+## Thema-logo
 
-In het brand book worden uitwerkingen getoond voor o.a. **"Blue Dragon"** (productlijn/
-campagne) en een thema-logo **"BFD"** (vermoedelijk Black Friday Deals).
+Er is een thema-logo **"BFD"** (vermoedelijk Black Friday Deals) dat aan ads toegevoegd
+kan worden — zie [[SWB-Beeld-en-Advertenties]].
