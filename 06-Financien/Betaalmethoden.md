@@ -2,74 +2,54 @@
 titel: Betaalmethoden
 domein: financien
 type: naslag
-status: in-review
+status: actueel
 eigenaar: Johnno van den Brink
 laatst_bijgewerkt: 2026-06-30
-bron: footers van de webshops (geverifieerd juni 2026)
+bron: webshops + bevestiging eigenaar (juni 2026)
 tags: [financien, betaalmethoden, checkout]
-aliases: [betaalmethoden, betalen, payment, ideal, klarna, paypal]
+aliases: [betaalmethoden, betalen, payment, ideal, wero, klarna, paypal]
 gerelateerd: ["[[00-Financien-Overzicht]]", "[[Merken-en-Webshops]]"]
 ---
 
 # Betaalmethoden
 
-De betaalmethoden per merk/webshop, afgelezen uit de footers van de sites.
+De betaalmethoden per merk en land. De **checkout** biedt per markt lokale methoden;
+de exacte set staat in de betaalinstellingen van Shopify/Lightspeed (Settings → Payments).
 
-> ⚠️ Let op: dit is wat de **footer-iconen** tonen. De checkout kan per markt méér
-> methoden aanbieden (bijv. lokale opties). Bevestig de definitieve lijst per land in de
-> betaalinstellingen van Shopify/Lightspeed.
+## Basis-set (op alle webshops)
 
-## SWB — Smartwatchbanden (Shopify Plus, alle landenshops)
+Visa · Mastercard · American Express · Maestro · Apple Pay · Google Pay · PayPal · Klarna
 
-Alle SWB-domeinen (.nl, .de, .fr, .es, .co.uk) tonen dezelfde set:
+## Lokale methoden per markt (bovenop de basis-set)
 
-- American Express
-- Apple Pay
-- Google Pay
-- Klarna
-- Maestro
-- Mastercard
-- PayPal
-- Visa
+| Markt | Lokale betaalmethoden |
+|-------|------------------------|
+| **Nederland (NL)** | **iDEAL**, **Wero** |
+| **België (BE)** | **Bancontact** |
+| **Duitsland (DE)** | **Giropay**, **SOFORT** |
+| **Frankrijk (FR)** | **Carte Bancaire** |
 
-> 🚧 Te bevestigen: **iDEAL** (NL) en **Bancontact** (BE) staan niet in de footer-iconen,
-> maar worden voor de NL/BE-markt vrijwel zeker in de checkout aangeboden. Controleren.
+> ✅ Bevestigd door eigenaar: **iDEAL en Wero staan op alle Nederlandse stores.**
 
-## Phone-Factory (Lightspeed, per land verschillend)
+## Per merk
 
-**phone-factory.nl (NL)**
-iDEAL · Bancontact · Klarna · PayPal · Visa · Mastercard · American Express · Apple Pay ·
-Google Pay · Maestro · SOFORT
+### SWB — Smartwatchbanden (Shopify Plus)
 
-**huellen-shop.de (DE)**
-iDEAL · Bancontact · Giropay · SOFORT · Klarna · PayPal · Visa · Mastercard ·
-American Express · Apple Pay · Google Pay · Maestro
+Basis-set + lokale methoden per landenshop (NL: iDEAL/Wero, BE: Bancontact, DE:
+Giropay/SOFORT, FR: Carte Bancaire). Domeinen: .nl, .de, .fr, .es, .co.uk.
 
-**coque-telephone.fr (FR)**
-Carte Bancaire · Visa · Mastercard · American Express · Apple Pay · Google Pay · Maestro ·
-PayPal · Klarna · iDEAL · Bancontact · SOFORT
+### Phone-Factory (Lightspeed)
 
-## Xoxowildhearts (Shopify, xoxowildhearts.com)
+- **phone-factory.nl (NL):** basis-set + iDEAL, Wero, Bancontact, SOFORT
+- **huellen-shop.de (DE):** basis-set + Giropay, SOFORT, iDEAL, Bancontact
+- **coque-telephone.fr (FR):** basis-set + Carte Bancaire, iDEAL, Bancontact, SOFORT
 
-- American Express
-- Apple Pay
-- Bancontact
-- Google Pay
-- iDEAL
-- Klarna
-- Maestro
-- Mastercard
-- PayPal
-- Shop Pay
-- Union Pay
-- Visa
-- (mogelijk ook Wero)
+### Xoxowildhearts (Shopify, meertalig)
 
-## Samengevat
+Basis-set + iDEAL, Bancontact, **Shop Pay**, **Union Pay** (en Wero voor NL).
 
-- **Overal aanwezig:** Visa, Mastercard, American Express, Apple Pay, Google Pay, Maestro,
-  PayPal, Klarna.
-- **Lokaal (NL/BE):** iDEAL, Bancontact (zeker bij Phone-Factory & Xoxowildhearts).
-- **Lokaal (DE):** Giropay, SOFORT (Phone-Factory DE).
-- **Lokaal (FR):** Carte Bancaire (Phone-Factory FR).
-- **Shopify-specifiek (Xoxo):** Shop Pay, Union Pay.
+## Aandachtspunt
+
+De Admin API toont de checkout-methoden niet als kant-en-klare lijst; ze worden per markt
+beheerd in **Shopify Payments / Markten** (SWB & Xoxo) en in **Lightspeed** (Phone-Factory).
+Controleer daar bij twijfel de exacte, actuele set.
