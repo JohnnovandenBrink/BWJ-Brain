@@ -16,6 +16,10 @@ Dit is de centrale lijst van wat er nog in het AI brain moet worden ingevuld. Ve
 secties over de juiste personen. Per punt staat **waar** het hoort (bestand) en een
 suggestie **wie** het kan aanleveren.
 
+> 📋 **Deze punten staan ook als taken in Asana:**
+> [BWJ AI Brain — Invullen](https://app.asana.com/1/1199613597897177/project/1216139977372763)
+> Lever info aan via een taak-reactie of bijlage; het wordt dan in het brain verwerkt.
+
 > Werkwijze voor invullers: lever de informatie aan (tekst, bestand, of antwoorden op de
 > vragen hieronder). Het wordt dan in het juiste document gezet. Zie [[Schrijfrichtlijnen]].
 
