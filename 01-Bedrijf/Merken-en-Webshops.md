@@ -5,9 +5,10 @@ type: naslag
 status: actueel
 eigenaar: Johnno van den Brink
 laatst_bijgewerkt: 2026-06-30
-tags: [bedrijf, merken, webshops, shopify, lightspeed]
+bron: websites (geverifieerd juni 2026)
+tags: [bedrijf, merken, webshops, shopify, lightspeed, bol]
 aliases: [merken, webshops, labels, websites, domeinen]
-gerelateerd: ["[[00-Bedrijf-Overzicht]]", "[[00-Ecommerce-Overzicht]]", "[[00-SWB-Overzicht]]", "[[00-IT-en-Tools-Overzicht]]"]
+gerelateerd: ["[[00-Bedrijf-Overzicht]]", "[[00-Ecommerce-Overzicht]]", "[[00-SWB-Overzicht]]", "[[00-Phone-Factory-Overzicht]]", "[[00-Xoxowildhearts-Overzicht]]", "[[00-IT-en-Tools-Overzicht]]"]
 ---
 
 # Merken en Webshops
@@ -17,8 +18,9 @@ landendomeinen (zelfde concept, andere taal/markt).
 
 ## 1. SWB — Smartwatchbanden
 
-Smartwatchbandjes. Alle landenshops draaien op **Shopify Plus** binnen **één omgeving**.
-Huisstijl/brand book: zie [[00-SWB-Overzicht]].
+Smartwatchbandjes & -accessoires voor 25+ merken (Apple Watch, Fitbit, Samsung, Garmin,
+Huawei, Xiaomi e.a.) in diverse materialen. Draait op **Shopify Plus**, alle landenshops in
+**één omgeving**. Details: [[00-SWB-Overzicht]].
 
 | Domein | Markt / taal |
 |--------|--------------|
@@ -30,9 +32,10 @@ Huisstijl/brand book: zie [[00-SWB-Overzicht]].
 
 ## 2. Phone-Factory — Telefoonaccessoires
 
-Telefoonhoesjes en -accessoires. Draait op **Lightspeed**.
+Telefoonhoesjes, screenprotectors en accessoires. "Al 10 jaar dé specialist in smartphone
+accessoires." Draait op **Lightspeed**. Details: [[00-Phone-Factory-Overzicht]].
 
-> ⚠️ Let op: dit merk wordt **grotendeels uitgefaseerd**.
+> Status: **blijft bestaan** met **minimale voorraad**. Verkoop loopt ook via **Bol.com**.
 
 | Domein | Markt / taal |
 |--------|--------------|
@@ -42,16 +45,17 @@ Telefoonhoesjes en -accessoires. Draait op **Lightspeed**.
 
 ## 3. Xoxowildhearts
 
+Trendy, gepersonaliseerde telefoonaccessoires (hoesjes, smartwatchbandjes, telefoonkoorden,
+laptopsleeves e.a.). Draait op **Shopify**. Details: [[00-Xoxowildhearts-Overzicht]].
+
 | Domein | Markt / taal |
 |--------|--------------|
-| xoxowildhearts.com | Universeel domein, meerdere talen |
-
-> 🚧 Aanvullen: assortiment, platform en doelgroep van Xoxowildhearts.
+| xoxowildhearts.com | Universeel domein — NL, FR, EN, DE (verzending naar 80+ EU-landen) |
 
 ## Samengevat: platformen
 
 - **Shopify Plus** → SWB / Smartwatchbanden (5 landenshops, 1 omgeving).
-- **Lightspeed** → Phone-Factory (wordt uitgefaseerd).
-- **Xoxowildhearts** → platform nog te bevestigen.
+- **Lightspeed** → Phone-Factory (minimale voorraad, ook op Bol.com).
+- **Shopify** → Xoxowildhearts.
 
 Zie ook [[00-IT-en-Tools-Overzicht]].

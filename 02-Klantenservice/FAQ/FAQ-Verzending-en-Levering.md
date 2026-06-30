@@ -2,9 +2,10 @@
 titel: FAQ Verzending en Levering
 domein: klantenservice
 type: faq
-status: concept
+status: in-review
 eigenaar: Johnno van den Brink
 laatst_bijgewerkt: 2026-06-30
+bron: websites SWB/Phone-Factory/Xoxowildhearts (geverifieerd juni 2026)
 tags: [klantenservice/verzending, faq, levering]
 aliases: [verzending, levering, bezorging, track and trace]
 gerelateerd: ["[[Verzendbeleid]]", "[[Proces-Niet-ontvangen-pakket]]"]
@@ -12,27 +13,32 @@ gerelateerd: ["[[Verzendbeleid]]", "[[Proces-Niet-ontvangen-pakket]]"]
 
 # FAQ: Verzending en Levering
 
-> ⚠️ TE VERIFIËREN: vul de echte tarieven, termijnen en vervoerders van BWJ in.
+> ⚠️ TE BEVESTIGEN: gebaseerd op de webshops. Bevestig tarieven/termijnen per merk en land.
 
 ## Wat zijn de verzendkosten?
 
-<INVULLEN — bijv. "Gratis verzending vanaf € 50, anders € 4,95 binnen Nederland.">
+Verzending is **gratis** (inclusief Track & Trace).
 
 ## Wat is de levertijd?
 
-<INVULLEN — bijv. "Voor 22:00 besteld, de volgende werkdag in huis.">
+Voor **22:00 uur besteld, de volgende (werk)dag in huis** (Nederland).
 
 ## Met welke vervoerder verzenden jullie?
 
-<INVULLEN — bijv. PostNL / DHL.>
+Met **PostNL** of **BPost**.
 
 ## Hoe volg ik mijn bestelling (track & trace)?
 
-Na verzending ontvang je een e-mail met een track & trace-link. Daarmee volg je je pakket.
+Na verzending ontvang je een e-mail met een Track & Trace-link. Daarmee volg je je pakket.
 
 ## Leveren jullie ook in België / de rest van de EU?
 
-<INVULLEN — landen en bijbehorende tarieven/termijnen.>
+Ja. Het levergebied verschilt per merk:
+- **SWB / Smartwatchbanden:** NL, DE, FR, ES, UK.
+- **Phone-Factory:** NL, DE, FR.
+- **Xoxowildhearts:** 80+ Europese landen.
+
+> 🚧 Aanvullen: exacte verzendkosten en levertijden buiten Nederland.
 
 ## Mijn pakket is niet aangekomen, wat nu?
 
