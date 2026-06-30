@@ -29,7 +29,7 @@ Legenda prioriteit: ⭐ = belangrijk / veel waarde · 🔹 = normaal · ▫️ =
 
 ## 1. Bedrijf — *wie levert: directie / HR*
 
-- [ ] ⭐ **Over BWJ Ecommerce** — kernactiviteit, sinds wanneer, doelgroep, markten,
+- [x] ⭐ **Over BWJ Ecommerce** — kernactiviteit, sinds wanneer, doelgroep, markten,
   contactgegevens & openingstijden → [[Over-BWJ-Ecommerce]]
 - [ ] 🔹 **Missie, visie & kernwaarden** → [[Missie-Visie-Waarden]]
 - [ ] ⭐ **Team & rollen** — organisatiestructuur, afdelingen, wie doet wat, aanspreekpunten
