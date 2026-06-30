@@ -13,12 +13,16 @@ gerelateerd: ["[[Merken-en-Webshops]]", "[[SWB-Kleurenpalet]]", "[[SWB-Logo-gebr
 
 # SWB — Merkoverzicht
 
-**SWB** staat voor **Smartwatchbanden.nl** — een webshop/merk van BWJ Ecommerce dat
-smartwatchbandjes verkoopt. Dit is de centrale ingang naar de **huisstijl** (brand identity)
-van SWB, gebaseerd op het officiële Brand Book (februari 2025).
+**SWB** is het smartwatchbanden-merk van BWJ Ecommerce (Smartwatchbanden) dat
+smartwatchbandjes verkoopt. Het merk draait in **5 landen** op aparte domeinen, allemaal op
+**Shopify Plus** binnen één omgeving. Dit is de centrale ingang naar de **huisstijl** (brand
+identity), gebaseerd op het officiële Brand Book (februari 2025).
 
-- **Merknaam:** SWB (Smartwatchbanden.nl)
-- **Webshop:** https://www.smartwatchbanden.nl
+- **Merknaam:** SWB (Smartwatchbanden)
+- **Platform:** Shopify Plus (5 landenshops in 1 omgeving)
+- **Webshops:** smartwatchbanden.nl (NL), smartwatcharmbaender.de (DE),
+  braceletsmartwatch.fr (FR), correasmartwatch.es (ES), smartwatch-straps.co.uk (UK) —
+  zie [[Merken-en-Webshops]]
 - **Assortiment:** smartwatchbandjes.
 
 ## Brand book (volledige visuele referentie)
