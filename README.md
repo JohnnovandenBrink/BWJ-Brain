@@ -19,6 +19,7 @@ Dit brain heeft twee doelen:
 - **Nieuw hier?** Lees eerst [00-Meta/Hoe-werkt-dit-brain.md](00-Meta/Hoe-werkt-dit-brain.md).
 - **Iets toevoegen?** Lees [00-Meta/Schrijfrichtlijnen.md](00-Meta/Schrijfrichtlijnen.md) en
   gebruik een template uit [00-Meta/Templates/](00-Meta/Templates/).
+- **Wat moet er nog ingevuld worden?** Zie [Openstaande punten](00-Meta/Openstaande-punten.md).
 - **Op zoek naar iets?** Begin bij de domein-overzichten hieronder.
 
 ## 🗂️ Structuur
