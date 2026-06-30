@@ -24,11 +24,12 @@ Gebruik exact één van deze waarden:
 | `bedrijf` | 01-Bedrijf |
 | `klantenservice` | 02-Klantenservice |
 | `ecommerce` | 03-Ecommerce |
-| `inkoop` | 04-Inkoop |
-| `operations` | 05-Operations |
-| `financien` | 06-Financien |
-| `it` | 07-IT-en-Tools |
-| `office` | 08-Office-Management |
+| `marketing` | 04-Marketing |
+| `inkoop` | 05-Inkoop |
+| `operations` | 06-Operations |
+| `financien` | 07-Financien |
+| `it` | 08-IT-en-Tools |
+| `office` | 09-Office-Management |
 
 ## Documenttypes (`type:`)
 

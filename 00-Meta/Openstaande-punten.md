@@ -63,7 +63,7 @@ Legenda prioriteit: ⭐ = belangrijk / veel waarde · 🔹 = normaal · ▫️ =
 - [ ] ⭐ **Assortiment & categorieën** — wat verkopen we precies, per merk
 - [ ] 🔹 **Productinformatie-standaard** — hoe schrijven we titels, beschrijvingen, specs
 - [ ] 🔹 **Prijzen & promoties** — prijsstrategie, kortingen, acties, cadeaubonnen
-- [ ] 🔹 **Marketing** — kanalen (mail, social, ads, SEO), nieuwsbrief, reviews
+- [ ] 🔹 **Marketing** — eigen domein → vul aan via [[00-Marketing-Overzicht]] (social media-kanalen al vastgelegd)
 - [ ] 🔹 **Fulfillment** — van bestelling tot verzending
 - [ ] → zie checklist in [[00-Ecommerce-Overzicht]]
 

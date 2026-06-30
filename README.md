@@ -1,7 +1,7 @@
 # 🧠 BWJ Ecommerce — AI Brain
 
 Dit is het centrale kennisbestand ("brain") van **BWJ Ecommerce**. Alle bedrijfskennis
-— klantenservice, inkoop, ecommerce, operations, financiën — wordt hier vastgelegd in
+— klantenservice, marketing, inkoop, ecommerce, operations, financiën — wordt hier vastgelegd in
 losse Markdown-bestanden.
 
 Dit brain heeft twee doelen:
@@ -29,12 +29,13 @@ Dit brain heeft twee doelen:
 | [00-Meta/](00-Meta/) | Hoe dit brain werkt: richtlijnen, templates, taxonomie |
 | [01-Bedrijf/](01-Bedrijf/) | Wie is BWJ: missie, merken, tone of voice, team |
 | [02-Klantenservice/](02-Klantenservice/) | FAQ, beleid, processen, antwoordsjablonen |
-| [03-Ecommerce/](03-Ecommerce/) | Webshop, assortiment, prijzen, marketing, fulfillment |
-| [04-Inkoop/](04-Inkoop/) | Leveranciers, inkoopproces, voorraadbeheer |
-| [05-Operations/](05-Operations/) | Logistiek, magazijn, retouren-verwerking |
-| [06-Financien/](06-Financien/) | Facturatie, btw, betaalmethoden |
-| [07-IT-en-Tools/](07-IT-en-Tools/) | Systemen, integraties, accounts |
-| [08-Office-Management/](08-Office-Management/) | Facilitair: pand, voorraad, leveranciers, events, on-/offboarding |
+| [03-Ecommerce/](03-Ecommerce/) | Webshop, assortiment, prijzen, promoties, fulfillment |
+| [04-Marketing/](04-Marketing/) | Social media, e-mail, SEO, advertenties, reviews |
+| [05-Inkoop/](05-Inkoop/) | Leveranciers, inkoopproces, voorraadbeheer |
+| [06-Operations/](06-Operations/) | Logistiek, magazijn, retouren-verwerking |
+| [07-Financien/](07-Financien/) | Facturatie, btw, betaalmethoden |
+| [08-IT-en-Tools/](08-IT-en-Tools/) | Systemen, integraties, accounts |
+| [09-Office-Management/](09-Office-Management/) | Facilitair: pand, voorraad, leveranciers, events, on-/offboarding |
 | [99-Archief/](99-Archief/) | Verouderde of vervangen documenten |
 
 ## ✅ Werkafspraken (kort)

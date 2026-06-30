@@ -55,7 +55,7 @@ Engelse sleutel), `gerelateerd` (wikilinks).
 
 - Noem getallen, termijnen, bedragen en voorwaarden expliciet.
 - Verwijst een document naar een extern systeem (bijv. Shopify)? Link of benoem het in
-  [07-IT-en-Tools/](../07-IT-en-Tools/).
+  [08-IT-en-Tools/](../08-IT-en-Tools/).
 - Twijfel je over een feit? Zet status op `concept` en markeer met `> ⚠️ TE VERIFIËREN`.
 
 ## 6. Onderhoud
