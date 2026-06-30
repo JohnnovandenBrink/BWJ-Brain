@@ -13,7 +13,7 @@ gerelateerd: ["[[00-Bedrijf-Overzicht]]", "[[Schrijfrichtlijnen]]"]
 # Begrippenlijst
 
 > 🚧 Nog in te vullen. Leg hier bedrijfsspecifieke termen en afkortingen uit, zodat de
-> chatbot (en nieuwe medewerkers) ze begrijpen.
+> AI (en nieuwe medewerkers) ze begrijpen.
 
 | Term | Betekenis |
 |------|-----------|

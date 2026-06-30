@@ -12,7 +12,7 @@ gerelateerd: ["[[Ecommerce-Overzicht]]"]
 
 # 07 · IT en Tools — Overzicht
 
-De systemen waarmee BWJ werkt en hoe ze samenhangen. Belangrijk zodat de chatbot weet
+De systemen waarmee BWJ werkt en hoe ze samenhangen. Belangrijk zodat de AI weet
 *waar* informatie vandaan komt en waar medewerkers iets doen.
 
 ## Webshopplatformen

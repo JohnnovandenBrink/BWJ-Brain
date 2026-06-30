@@ -2,7 +2,7 @@
 titel: Retourbeleid
 domein: klantenservice
 type: beleid
-status: in-review
+status: actueel
 eigenaar: Johnno van den Brink
 laatst_bijgewerkt: 2026-06-30
 ingangsdatum: 
@@ -14,8 +14,10 @@ gerelateerd: ["[[Proces-Retour-verwerken]]", "[[FAQ-Retourneren]]", "[[Merken-en
 
 # Beleid: Retourbeleid
 
-> ⚠️ TE BEVESTIGEN: gebaseerd op wat de webshops vermelden. Bevestig of dit identiek geldt
-> voor alle merken en alle landendomeinen, en vul de precieze voorwaarden aan.
+> ✅ Bevestigd: **100 dagen bedenktijd geldt overal** — voor alle merken (SWB,
+> Phone-Factory, Xoxowildhearts) en alle landendomeinen.
+> 🚧 Nog aanvullen: retourkosten (wie betaalt terugzending), terugbetalingstermijn en de
+> precieze retourprocedure.
 
 ## Kern in het kort
 

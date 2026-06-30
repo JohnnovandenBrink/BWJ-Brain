@@ -17,7 +17,7 @@ gerelateerd: []
 
 ## Kern in het kort
 
-De belangrijkste regel(s) in 1-3 zinnen, zodat de chatbot direct kan antwoorden.
+De belangrijkste regel(s) in 1-3 zinnen, zodat de AI direct kan antwoorden.
 
 ## Voorwaarden
 

@@ -6,8 +6,9 @@ losse Markdown-bestanden.
 
 Dit brain heeft twee doelen:
 
-1. **Bron voor de AI-chatbot.** Een AI-assistent kan op basis van deze bestanden vragen
-   beantwoorden over alles binnen BWJ (RAG: Retrieval-Augmented Generation).
+1. **AI brain om mee te praten.** Met een AI-assistent kun je op basis van deze bestanden
+   vragen stellen over alles binnen BWJ en betrouwbare antwoorden krijgen
+   (RAG: Retrieval-Augmented Generation).
 2. **Kennisbank voor het team.** Te lezen en bewerken in **Obsidian** (gekoppeld aan deze
    GitHub-repo) of direct op GitHub.
 
@@ -38,6 +39,6 @@ Dit brain heeft twee doelen:
 ## ✅ Werkafspraken (kort)
 
 - **Eén onderwerp per bestand** — houd documenten klein en gericht.
-- **Altijd frontmatter** invullen (zie templates) — de chatbot gebruikt dit.
+- **Altijd frontmatter** invullen (zie templates) — de AI gebruikt dit.
 - **Status bijhouden**: `concept` → `in-review` → `actueel` → `verouderd`.
-- **Schrijf in het Nederlands**, in heldere taal die een klant of medewerker begrijpt.
+- **Schrijf in het Nederlands**, in heldere taal die jij of een collega direct begrijpt.

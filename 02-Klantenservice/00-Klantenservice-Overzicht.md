@@ -12,7 +12,8 @@ gerelateerd: ["[[Ecommerce-Overzicht]]", "[[Operations-Overzicht]]"]
 
 # 02 · Klantenservice — Overzicht
 
-Het hart van de chatbot: hiermee beantwoordt de AI de meeste klantvragen.
+Alle klantenservice-informatie: retour, verzending, garantie en betalen. Hiermee kun je
+het brain vragen stellen over hoe de klantenservice van BWJ werkt.
 Onderverdeeld in **FAQ**, **Beleid**, **Processen** en **Antwoordsjablonen**.
 
 ## Submappen
