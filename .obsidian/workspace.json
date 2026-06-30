@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "1f67a7fb29f30ec1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a54ca56c4b8e9d12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1c70359a9f550fc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Grafiek weergave"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29ce58792b632c6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "95be2ea0817fe543",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b2419dcf5aa4712",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Verkenner"
+            }
+          },
+          {
+            "id": "b46e5fd5422a4b8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Zoeken"
+            }
+          },
+          {
+            "id": "76151e54e4f82548",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bladwijzers"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "285e1fc3f08f9d61",
+    "type": "split",
+    "children": [
+      {
+        "id": "619f83d6b787d46e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f52e46c32b821c8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Terugverwijzing"
+            }
+          },
+          {
+            "id": "9ae835cd7f5bf523",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Uitgaande verwijzingen"
+            }
+          },
+          {
+            "id": "86875a0c1bfbc614",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Labels"
+            }
+          },
+          {
+            "id": "fe1e32d63401348a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle eigenschappen"
+            }
+          },
+          {
+            "id": "23791f780c4109c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Overzicht"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open snel wisselen": false,
+      "graph:Open grafiek weergave": false,
+      "canvas:Nieuw doek aanmaken": false,
+      "daily-notes:Open de notitie van vandaag": false,
+      "templates:Sjabloon invoegen": false,
+      "command-palette:Open opdrachtenpaneel": false,
+      "bases:Nieuwe basis maken": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a1c70359a9f550fc",
+  "lastOpenFiles": [
+    "Naamloos 1.canvas",
+    "04-Inkoop.md",
+    "2026-06-30.md",
+    "Naamloos.canvas",
+    "00-Meta/Hoe-werkt-dit-brain.md",
+    "08-Office-Management/00-Office-Management-Overzicht.md",
+    "01-Bedrijf/Tone-of-Voice.md",
+    "Team-en-Rollen.md",
+    "Operations-Overzicht.md",
+    "08-Office-Management/Proces-Facilitaire-Contracten.md",
+    "08-Office-Management/Proces-Continuiteit-bij-Afwezigheid.md",
+    "08-Office-Management/Proces-Arbo-en-Veiligheid.md",
+    "08-Office-Management/Leveranciers-Facilitair.md",
+    "08-Office-Management/Contractenregister.md"
+  ]
+}
