@@ -23,7 +23,18 @@ identity), gebaseerd op het officiële Brand Book (februari 2025).
 - **Webshops:** smartwatchbanden.nl (NL), smartwatcharmbaender.de (DE),
   braceletsmartwatch.fr (FR), correasmartwatch.es (ES), smartwatch-straps.co.uk (UK) —
   zie [[Merken-en-Webshops]]
-- **Assortiment:** smartwatchbandjes.
+- **Assortiment:** smartwatchbandjes & -accessoires voor 25+ merken (Apple Watch, Fitbit,
+  Samsung, Garmin, Huawei, Xiaomi e.a.) in materialen als siliconen, leer, staal, Milanees,
+  nylon en titanium.
+
+## Klantbeloften (zoals op de webshop)
+
+- Gratis verzending met Track & Trace
+- Voor 22:00 besteld, morgen in huis
+- 100 dagen bedenktijd, gratis omruilen als de band niet past
+- Bezorging via PostNL of BPost
+- Betaalmethoden: American Express, Apple Pay, Google Pay, Klarna, Maestro, Mastercard,
+  PayPal, Visa
 
 ## Brand book (volledige visuele referentie)
 

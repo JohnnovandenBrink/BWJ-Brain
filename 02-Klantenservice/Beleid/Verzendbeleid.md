@@ -2,23 +2,36 @@
 titel: Verzendbeleid
 domein: klantenservice
 type: beleid
-status: concept
+status: in-review
 eigenaar: Johnno van den Brink
 laatst_bijgewerkt: 2026-06-30
 ingangsdatum: 
+bron: websites SWB/Phone-Factory/Xoxowildhearts (geverifieerd juni 2026)
 tags: [klantenservice/verzending, beleid]
 aliases: [verzendbeleid, verzendkosten, levertijden]
-gerelateerd: ["[[00-Klantenservice-Overzicht]]", "[[FAQ-Verzending-en-Levering]]"]
+gerelateerd: ["[[00-Klantenservice-Overzicht]]", "[[FAQ-Verzending-en-Levering]]", "[[Merken-en-Webshops]]"]
 ---
 
 # Beleid: Verzendbeleid
 
-> 🚧 Nog in te vullen met de echte BWJ-gegevens.
+> ⚠️ TE BEVESTIGEN: gebaseerd op wat de webshops vermelden. Bevestig de exacte tarieven,
+> drempels en levertijden per merk en per land.
 
-## Te beschrijven
+## Kern in het kort
 
-- Verzendkosten (tarieven, gratis vanaf bedrag).
-- Levertijden per regio (NL / BE / EU).
-- Vervoerders (PostNL, DHL, ...).
-- Verzendlanden.
-- Track & trace.
+- **Gratis verzending** met Track & Trace.
+- **Voor 22:00 besteld, de volgende (werk)dag in huis** (NL).
+- Bezorging via **PostNL** of **BPost**.
+
+## Levergebied
+
+- **SWB / Smartwatchbanden:** NL, DE, FR, ES, UK (eigen landendomeinen).
+- **Phone-Factory:** NL, DE, FR.
+- **Xoxowildhearts:** verzending naar 80+ Europese landen.
+
+> 🚧 Aanvullen: verzendkosten/drempels buiten NL, exacte levertijden per land, en
+> eventuele verschillen per merk.
+
+## Track & Trace
+
+Na verzending ontvangt de klant een e-mail met een Track & Trace-link.

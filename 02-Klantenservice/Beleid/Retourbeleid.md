@@ -2,45 +2,47 @@
 titel: Retourbeleid
 domein: klantenservice
 type: beleid
-status: concept
+status: in-review
 eigenaar: Johnno van den Brink
 laatst_bijgewerkt: 2026-06-30
 ingangsdatum: 
+bron: websites SWB/Phone-Factory/Xoxowildhearts (geverifieerd juni 2026)
 tags: [klantenservice/retour, beleid, garantie]
-aliases: [retour, retourneren, terugsturen, herroepingsrecht]
-gerelateerd: ["[[Proces-Retour-verwerken]]", "[[FAQ-Retourneren]]"]
+aliases: [retour, retourneren, terugsturen, herroepingsrecht, bedenktijd]
+gerelateerd: ["[[Proces-Retour-verwerken]]", "[[FAQ-Retourneren]]", "[[Merken-en-Webshops]]"]
 ---
 
 # Beleid: Retourbeleid
 
-> ⚠️ TE VERIFIËREN: dit is een sjabloon met wettelijke standaardwaarden (NL/EU).
-> Vul de echte BWJ-voorwaarden in en zet de status daarna op `in-review`.
+> ⚠️ TE BEVESTIGEN: gebaseerd op wat de webshops vermelden. Bevestig of dit identiek geldt
+> voor alle merken en alle landendomeinen, en vul de precieze voorwaarden aan.
 
 ## Kern in het kort
 
-Klanten mogen een product binnen **14 dagen** na ontvangst retourneren zonder opgaaf van
-reden (wettelijk herroepingsrecht). Het product moet **ongebruikt en compleet** zijn.
+De BWJ-webshops hanteren **100 dagen bedenktijd** — ruimer dan het wettelijke herroepingsrecht
+van 14 dagen. Past een (smartwatch)band niet goed? **Gratis omruilen.**
 
 ## Voorwaarden
 
-- Retourtermijn: **14 dagen** na ontvangst om te melden, daarna 14 dagen om terug te sturen.
+- **Retourtermijn: 100 dagen** na ontvangst.
 - Product is ongebruikt, onbeschadigd en in originele verpakking.
-- Retourkosten: **<voor rekening van klant / BWJ — INVULLEN>**.
-- Terugbetaling binnen **14 dagen** na ontvangst van de retour, via de oorspronkelijke
-  betaalmethode.
+- **Gratis omruilen** als een band/product niet past.
+- Terugbetaling via de oorspronkelijke betaalmethode.
+
+> 🚧 Aanvullen: retourkosten (wie betaalt terugzending?), terugbetalingstermijn, en de
+> precieze retourprocedure per merk/land.
 
 ## Uitzonderingen
 
 - Hygiënische producten met verbroken verzegeling.
-- Op maat gemaakte / gepersonaliseerde producten.
-- <Overige uitzonderingen — INVULLEN>
+- Op maat gemaakte / gepersonaliseerde producten (bijv. custom hoesjes).
+- 🚧 Overige uitzonderingen — aanvullen.
 
 ## Voorbeelden
 
-- **Situatie:** Klant heeft na 10 dagen spijt, product ongebruikt → **Uitkomst:** retour
-  toegestaan, volledige terugbetaling.
-- **Situatie:** Klant meldt retour na 20 dagen → **Uitkomst:** buiten termijn, beoordelen
-  als coulance.
+- **Situatie:** Klant heeft na 30 dagen spijt, product ongebruikt → **Uitkomst:** retour
+  toegestaan binnen de 100 dagen.
+- **Situatie:** Band past niet → **Uitkomst:** gratis omruilen.
 
 ## Zie ook
 
