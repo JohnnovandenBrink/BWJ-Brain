@@ -11,10 +11,14 @@
             "id": "a1c70359a9f550fc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Grafiek weergave"
+              "type": "markdown",
+              "state": {
+                "file": "04-Inkoop/00-Inkoop-Overzicht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00-Inkoop-Overzicht"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04-Inkoop/00-Inkoop-Overzicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Terugverwijzing"
+              "title": "Terugverwijzingen voor 00-Inkoop-Overzicht"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04-Inkoop/00-Inkoop-Overzicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Uitgaande verwijzingen"
+              "title": "Uitgaande verwijzingen van 00-Inkoop-Overzicht"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04-Inkoop/00-Inkoop-Overzicht.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Overzicht"
+              "title": "Overzicht van 00-Inkoop-Overzicht"
             }
           }
         ]
@@ -179,8 +186,10 @@
   },
   "active": "a1c70359a9f550fc",
   "lastOpenFiles": [
-    "Naamloos 1.canvas",
     "04-Inkoop.md",
+    "_inbox/LEESMIJ.md",
+    "README.md",
+    "Naamloos 1.canvas",
     "2026-06-30.md",
     "Naamloos.canvas",
     "00-Meta/Hoe-werkt-dit-brain.md",
