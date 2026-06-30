@@ -16,11 +16,12 @@ Overzicht van de merken en webshops van BWJ Ecommerce.
 
 ## Merken
 
-| Merk | Huisstijl | Status |
-|------|-----------|--------|
-| **SWB** | [[00-SWB-Overzicht]] (kleuren, logo, fonts, ads) | Brand book aanwezig |
+| Merk | Webshop | Assortiment | Huisstijl |
+|------|---------|-------------|-----------|
+| **SWB** (Smartwatchbanden.nl) | smartwatchbanden.nl | Smartwatchbandjes | [[00-SWB-Overzicht]] |
 
-> 🚧 Aanvullen: volledige merknaam SWB, overige merken, en per webshop de details.
+> 🚧 Aanvullen: overige merken/webshops van BWJ, en per webshop de details (URL,
+> doelgroep, platform).
 
 ## Per merk/webshop nog te beschrijven
 
