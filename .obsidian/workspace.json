@@ -184,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1c70359a9f550fc",
+  "active": "8b2419dcf5aa4712",
   "lastOpenFiles": [
+    "00-Meta/Openstaande-punten.md",
     "00-Meta/Templates.md",
     "README.md",
     "01-Bedrijf/00-Bedrijf-Overzicht.md",
@@ -215,7 +216,6 @@
     "Naamloos.canvas",
     "00-Meta/Hoe-werkt-dit-brain.md",
     "08-Office-Management/00-Office-Management-Overzicht.md",
-    "Team-en-Rollen.md",
-    "Operations-Overzicht.md"
+    "Team-en-Rollen.md"
   ]
 }
