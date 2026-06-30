@@ -15,9 +15,13 @@ gerelateerd: ["[[Klantenservice-Overzicht]]"]
 Facturatie, betalingen, btw en terugbetalingen — voor zover relevant voor klantvragen
 en interne werkwijzen.
 
+## Documenten in dit domein
+
+- [[Betaalmethoden]] — betaalmethoden per merk/land (uit de webshops).
+
 ## 📋 Te documenteren (checklist)
 
-- [ ] Betaalmethoden (iDEAL, creditcard, achteraf betalen, ...)
+- [x] Betaalmethoden per merk/land → [[Betaalmethoden]] *(in-review; iDEAL/Bancontact bij SWB nog te bevestigen)*
 - [ ] Facturen (hoe vraagt een klant een factuur op?)
 - [ ] Btw-regels (NL/EU, zakelijk vs particulier)
 - [ ] Terugbetalingen (termijn, methode)
