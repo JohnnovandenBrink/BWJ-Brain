@@ -21,7 +21,7 @@ en interne werkwijzen.
 
 ## 📋 Te documenteren (checklist)
 
-- [x] Betaalmethoden per merk/land → [[Betaalmethoden]] *(in-review; iDEAL/Bancontact bij SWB nog te bevestigen)*
+- [x] Betaalmethoden per merk/land → [[Betaalmethoden]] ✅
 - [ ] Facturen (hoe vraagt een klant een factuur op?)
 - [ ] Btw-regels (NL/EU, zakelijk vs particulier)
 - [ ] Terugbetalingen (termijn, methode)
