@@ -1,0 +1,4 @@
+# Obsidian — per-apparaat schermindeling (tabbladen, panelen, laatste graph-view).
+# Niet syncen: elk apparaat houdt z'n eigen indeling. Je notities syncen wél gewoon.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
